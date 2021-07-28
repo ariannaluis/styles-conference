@@ -1,0 +1,1 @@
+Styles Conference is a practice project using HTML and CSS. The site will be a mock conference website. 
