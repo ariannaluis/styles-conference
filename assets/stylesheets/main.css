@@ -139,6 +139,7 @@ h1, h3, h4, h5, p {
 
 .hero p{ 
 	font-size: 24px;
+	font-weight: 100;
 }
 
 .teaser a:hover h3 {
@@ -153,8 +154,12 @@ h1, h3, h4, h5, p {
 	padding: 40px 0 22px 0;
 	float: left;
 	font-size: 48px;
-	line-height: 44px
+	line-height: 44px;
+	font-weight: 100;
+	text-transform: uppercase;
+	letter-spacing: .5px;
 }
+
 
 .tagline {
 	margin: 66px 0 22px 0;
@@ -186,7 +191,7 @@ h1, h3, h4, h5, p {
 
 body {
 	color: #888;
-	font: 300 16px/22px "Open Sans", "Helvectica Neue", Helvectica, Arial, sans-serif;
+	font: 300 16px/22px "Lato", "Open Sans", "Helvectica Neue", Helvectica, Arial, sans-serif;
 }
 
 h1, h2, h3, h4 {
